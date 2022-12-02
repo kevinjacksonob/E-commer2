@@ -1,0 +1,22 @@
+.cart-p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;  
+    margin: 30px auto;
+}
+ 
+.cart-p__icon{
+    font-size: 25px;
+    color: white;
+}
+
+.card-p__btn{
+    background-color:crimson;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 15px;
+}
+

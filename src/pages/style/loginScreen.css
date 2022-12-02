@@ -1,0 +1,30 @@
+.login_container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.login_container_input_group {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.login_container_input_group_label {
+    text-align: start;
+    margin-bottom: 8px;
+}
+
+.login_container_input_group_input {
+    padding: 5px 10px;
+    width: 250px;
+}
+
+.login_container_btn {
+    background-color: crimson;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 150px;
+    margin: 20px;
+}

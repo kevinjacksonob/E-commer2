@@ -1,0 +1,10 @@
+.inputSearch {
+    width: 95%;
+    height: 40px;
+    padding: 12px;
+    border: 1px solid rgba(161, 161, 161, 0.575);
+}
+
+.inputSearch::placeholder { 
+    color: rgba(161, 161, 161, 0.575);
+}

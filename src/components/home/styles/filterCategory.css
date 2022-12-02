@@ -1,0 +1,22 @@
+.filterCategory__title {
+    text-align:start;
+    color: rgb(20, 20, 20);
+    border-bottom: 1px solid rgba(161, 161, 161, 0.575);
+    padding: 8px 8px;
+}
+
+.filterCategory__list {
+    margin: 20px;
+}
+
+.filterCategory__list_item {
+    text-align: start;
+    padding: 2px;
+}
+
+.filterCategory__list_item:hover {
+    background-color: crimson;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+}

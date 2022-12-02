@@ -1,0 +1,13 @@
+.card__purchase {
+    max-width: 90%;
+    margin: 40px auto;
+    border: 1px solid rgba(161, 161, 161, 0.808);
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.product_info_container {
+    display:flex;
+    justify-content: space-between;
+    margin: 4px;
+}
